@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Test case 1 - Create new user.html">Test suite 1 - Create new user</a></td></tr>
+<tr><td><a href="Test case 2 - Login to account.html">Test case 2 - Login to account</a></td></tr>
+<tr><td><a href="Test case 3 - Reset password.html">Test case 3 - Reset password</a></td></tr>
+<tr><td><a href="Test case 4 - Select products.html">Test case 4 - Select products</a></td></tr>
+<tr><td><a href="Test case 7 - Change number of items.html">Test case 7 - Change number of items</a></td></tr>
+<tr><td><a href="Test case 5 - Continue shopping.html">Test case 5 - Continue shopping</a></td></tr>
+<tr><td><a href="Test case 6 - Check out the shopping cart.html">Test case 6 - Checkout the shopping cart</a></td></tr>
+<tr><td><a href="Test case 8 - Finalize order.html">Test case 8 - Finalize the order</a></td></tr>
+<tr><td><a href="Test case 9 - Log out.html">Test case 9 - Log out</a></td></tr>
+</tbody></table>
+</body>
+</html>
